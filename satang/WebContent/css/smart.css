@@ -1,0 +1,114 @@
+/* display */
+.inblock {
+	display: inline-block;
+}
+.mxw600 {
+	max-width: 600px;
+}
+.mxw650 {
+	max-width: 650px;
+}
+.mxw700 {
+	max-width: 700px;
+}
+.mxw750 {
+	max-width: 750px;
+}
+.mxw800 {
+	max-width: 800px;
+}
+.box50 {
+	width: 50px;
+	height: 50px;
+}
+.boximg {
+	height: 200px;
+	width: 200px;
+}
+.glbl {
+	margin-left: 10px;
+}
+.mgt30 {
+	margin-top: 30px;
+}
+.mgb30 {
+	margin-bottom: 30px;
+}
+.mgb20 {
+	margin-bottom: 20px;
+}
+.mgb15 {
+	margin-bottom: 15px;
+}
+.mgb10 {
+	margin-bottom: 10px;
+}
+.mgb5 {
+	margin-bottom: 5px;
+}
+.pdh30 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.pdl20 {
+	padding-left: 20px;
+}
+.pdl10 {
+	padding-left: 10px;
+}
+.pdr20 {
+	padding-right: 20px;
+}
+.pdr10 {
+	padding-right: 10px;
+}
+/* overflow class */
+.hidden {
+	overflow: hidden;
+}
+/* font class */
+.ft12 {
+	font-size: 12pt;
+}
+.ft14 {
+	font-size: 14pt;
+}
+.ft16 {
+	font-size: 16pt;
+}
+.ft18 {
+	font-size: 18pt;
+}
+.bd {
+	font-weight: bold;
+}
+/* dimension class */
+.w80 {
+	width: 80px;
+}
+.w150 {
+	width: 150px;
+}
+.w300 {
+	width: 300px;
+}
+
+/* avartar-related */
+.avtimg {
+	width: 100px;
+	height: 100px;
+}
+.avtfr {
+	width: 100px;
+	height: 110px;
+}
+
+/* height */
+.h9 {
+	height: 9px;
+}
+.h29 {
+	height: 29px;
+}
+
+/* color */

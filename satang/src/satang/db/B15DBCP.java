@@ -33,6 +33,7 @@ public class B15DBCP {
 			/*
 				찾을 이름을 정하는 규칙
 					java:/comp/env/찾을이름
+				comp == computer
 				이 경우 찾을이름 == jdbc/TestDB
 			 */
 		} catch(Exception e) {
